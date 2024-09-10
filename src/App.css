@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+}
+input {
+    width: 20%;
+    padding: 10px;
+    display: inline;
+    margin: 5px;
+    border-radius: 5px;
+    border-color: aqua;
+    align-items: center;
+}
+.agregar {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
