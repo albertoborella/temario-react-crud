@@ -1,8 +1,16 @@
-# React + Vite
+# Temas del curso REACT JS - CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Objetivo del proyecto
 
-Currently, two official plugins are available:
+El presente proyecto es parte de la entrega realizada en el curso de REACT JS de InoveCode
+El mismo consiste en un CRUD que nos permite elaborar los temas a tratar en un curso. En este caso y a título de ejemplo se muestran los temas dictados en el curso de REACT que motivó este proyecto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Descargar el proyecto
+
+Para esta operación se deberá clonar el proyecto en la terminal, posisionándose donde se quiera descargar y ejecutar el siguiente comando:
+
+Una vez clonado el repositorio se deben instalar las dependencias y eso se realiza con el siguiete comando, estando posisionado en la terminal donde está el proyecto que ha sido clonado:
+`npm install`
+
+
+
